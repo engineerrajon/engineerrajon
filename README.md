@@ -1,127 +1,28 @@
-👨‍💻 Md Rajon Miah
-IT Specialist | Cyber Security Expert | OSINT Analyst | Creative Designer
+<h1 align="center">👨‍💻 Md Rajon Miah</h1>
+<h3 align="center">Cyber Security Specialist | OSINT Analyst | Intelligence Operations Expert</h3>
 
-🔐 Cyber Security Specialist & Intelligence Operations Expert
-With 12+ years of professional experience in IT, Cyber Crime Investigation, and Digital Intelligence Operations.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cyber+Crime+Investigator;CDR+%7C+IPDR+Analysis+Expert;OSINT+Specialist;Web+Developer;Digital+Forensics+Analyst&center=true&width=500&height=45">
+</p>
 
-🚀 About Me
+---
 
-I am a dedicated Cyber Security Specialist currently serving under the Lawful Interception Cell (LIC), IMMC, IAD, contributing to national security operations.
+## 🔐 About Me
 
-My expertise includes:
+- 🔎 12+ Years Experience in Cyber Security & Intelligence
+- 📊 Expert in CDR / IPDR / LAC-CELL Analysis
+- 📱 Digital Forensics & Mobile Tracking
+- 💳 Financial Fraud Investigation (bKash / Nagad)
+- 🌐 Social Media Intelligence & Monitoring
+- 💻 WordPress | PHP | MySQL | JavaScript Developer
 
-🔎 Open Source Intelligence (OSINT)
+---
 
-📊 CDR / IPDR / LAC-CELL Analysis
+## 🛡️ Core Specializations
 
-📱 Mobile Forensics & Digital Evidence Recovery
-
-💳 Financial Fraud Investigation (bKash / Nagad Tracing)
-
-🌐 Social Media Monitoring & Cyber Crime Detection
-
-🛡️ Website & Information Security
-
-💻 Web Development (WordPress, PHP, MySQL, JavaScript)
-
-I have successfully led and supported multiple operations involving cybercrime investigation, online fraud detection, digital forensics, and intelligence-based data analysis.
-
-🏆 Professional Highlights
-
-✅ 12+ Years of Experience
-
-✅ 20+ Certifications & Professional Training
-
-✅ 6+ Core Specializations
-
-✅ 100% Commitment to Professional Excellence
-
-🧠 Core Specializations
-
-Cyber Crime Investigation
-
-Lawful Interception Operations
-
-Digital Forensics
-
-Intelligence Data Analysis
-
-OSINT & Social Media Intelligence
-
-Website & Software Development
-
-🛠️ Technical Skills
-
-Cyber & Intelligence Tools
-
-CDR Analysis
-
-LIC Operations
-
-IPDR Investigation
-
-OSINT Tools
-
-Social Media Tracking Techniques
-
-Development Stack
-
-WordPress
-
-PHP
-
-MySQL
-
-JavaScript
-
-HTML5 / CSS3
-
-Software & Platforms
-
-CDMS / CDMS++
-
-CIMS
-
-ONLINE GD System
-
-Microsoft Office Suite
-
-🎓 Training & Instructor Experience
-
-I have provided professional in-service training on:
-
-Cyber Crime Investigation
-
-Social Media Security
-
-Website Security
-
-CDR Analysis
-
-Computer Hardware & Networking
-
-ICT & Microsoft Office
-
-Previously served as:
-
-ICT Specialist
-
-Cyber Security Instructor
-
-Computer Lab Assistant
-
-Photography & Graphic Design Trainer
-
-📂 Featured Focus Areas
-
-🔹 Cyber Security Projects
-🔹 OSINT Research Tools
-🔹 Intelligence Data Analysis Scripts
-🔹 Web-Based Analytical Applications
-🔹 Digital Investigation Utilities
-
-🌐 Connect With Me
-
-🔗 GitHub: https://github.com/engineerrajon
-
-💼 IT | Cyber Security | Intelligence Operations
+```diff
++ Cyber Crime Investigation
++ Lawful Interception Cell (LIC)
++ OSINT & Intelligence Analysis
++ Digital Forensics
++ Website Security
