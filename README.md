@@ -26,3 +26,59 @@
 + OSINT & Intelligence Analysis
 + Digital Forensics
 + Website Security
+
+---
+
+# 📊 3️⃣ GitHub Stats Version (Must Add 🔥)
+
+
+```markdown
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=engineerrajon&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engineerrajon&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineerrajon&layout=compact&theme=tokyonight" />
+</p>
+---
+
+## 🎖️ National Security Contribution
+
+Currently serving under Lawful Interception Cell (LIC), IMMC, IAD  
+Specialized in:
+
+- Advanced OSINT Operations
+- Social Media Threat Monitoring
+- Cyber Crime Intelligence Analysis
+- CDR/IPDR Investigative Operations
+- Intelligence Software Development
+
+---
+
+## 🎓 Training & Instruction
+
+Certified Instructor in:
+
+- Cyber Crime Investigation
+- Social Media Security
+- Website Security
+- CDR Analysis
+- ICT & Computer Hardware
+
+---
+
+## 🏆 Professional Experience
+
+- 12+ Years Experience
+- 20+ Certifications
+- 6+ Technical Specializations
+- 100% Operational Commitment
